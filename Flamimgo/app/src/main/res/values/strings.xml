@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flamimgo</string>
+    <string name="link"><a href="#">Submit</a></string>
+    <string name="forgotpassword"><a href="#">Forgot password</a></string>
+    <string name="signup"><a href="#">Signup</a></string>
+    <string name="logout"><a href="#">Logout</a></string>
+    <string name="masterpieces"> Masterpieces\n By Josh K\n 1958</string>
+    <string name="har"> Harry Poter\n By JK Rowlings\n 1968</string>
+    <string name="Kite"> The Kite\n By Robert E \n 1989</string>
+    <string name="one"> One Day Life\n By Joshua \n 1869</string>
+    <string name="back"><a href="#">Back</a></string>
+    <string name="master"> Masterpieces\n A4 \n 12.5.2024</string>
+    <string name="harry"> Harry Potter\n By A5\n 14.5.2024</string>
+    <string name="Kit"> The Kite\n A4 \n 13.5.2024</string>
+    <string name="typ">Type and send your complaint below</string>
+
+
+</resources>
